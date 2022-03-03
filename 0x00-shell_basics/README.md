@@ -11,3 +11,5 @@ cd -
 ls -la . .. /boot
 file /tmp/iamafile
 ln -s /bin/ls_ls_
+cp -u *.html ..
+mv [[:upper:]]* /tmp/upper
