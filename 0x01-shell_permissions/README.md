@@ -13,3 +13,4 @@ chmod -R +X .
 mkdir -m 751 my_dir
 chgrp school hello
 chown betty:holberton *
+chown -h vincent:staff_hello
