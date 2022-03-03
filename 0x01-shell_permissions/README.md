@@ -12,5 +12,5 @@ chmod --reference=olleh hello
 chmod -R +X .
 mkdir -m 751 my_dir
 chgrp school hello
-chown betty:holberton *
+chown vincent:staff *
 chown -h vincent:staff_hello
