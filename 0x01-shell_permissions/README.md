@@ -15,3 +15,4 @@ chgrp school hello
 chown vincent:staff *
 chown -h vincent:staff_hello
 chown --from=guillaume betty hello
+telnet towel.blinkenlights.nl
