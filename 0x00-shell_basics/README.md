@@ -9,3 +9,4 @@ mv /tmp/betty /tmp/my_first_directory
 rm /tmp/my_first_directory/betty
 cd -
 ls -la . .. /boot
+file /tmp/iamafile
