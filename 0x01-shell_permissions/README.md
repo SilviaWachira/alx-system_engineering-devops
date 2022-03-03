@@ -13,6 +13,6 @@ chmod -R +X .
 mkdir -m 751 my_dir
 chgrp school hello
 chown vincent:staff *
-chown -h vincent:staff_hello
+chown -h vincent:staff _hello
 chown --from=guillaume betty hello
 telnet towel.blinkenlights.nl
