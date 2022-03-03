@@ -10,3 +10,4 @@ rm /tmp/my_first_directory/betty
 cd -
 ls -la . .. /boot
 file /tmp/iamafile
+ln -s /bin/ls_ls_
