@@ -12,4 +12,5 @@ ls -la . .. /boot
 file /tmp/iamafile
 ln -s /bin/ls_ls_
 cp -u *.html ..
-mv [[:upper:]]* /tmp/upper
+mv [[:upper:]]* /tmp/u
+rm *~
